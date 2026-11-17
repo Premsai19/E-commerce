@@ -65,8 +65,7 @@ volt-tech-store/
 │   ├── state.js             # Centralized State Management, Pub/Sub pattern, LocalStorage synchronization
 │   ├── ui.js                # DOM rendering engine, card templates, modals, drawers, and toasts
 │   └── app.js               # Application bootstrap, debounced filters, event delegation, and checkout logic
-├── README.md                # Project documentation and deployment guide
-└── INTERVIEW_GUIDE.md       # Comprehensive fresher interview prep and code walkthrough
+└── README.md                # Project documentation and deployment guide
 ```
 
 ---
